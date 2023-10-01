@@ -1,5 +1,5 @@
 # StudentManagementSystem
-> 作者：朱旭东
+> 作者：朱旭东 
 >
 > 大一c/c++个人结课作业：学生成绩管理系统
 
